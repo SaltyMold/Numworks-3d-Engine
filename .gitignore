@@ -1,0 +1,7 @@
+.vscode/c_cpp_properties.json
+.vscode/settings.json
+.vscode/launch.json
+src/.vscode/c_cpp_properties.json
+src/.vscode/settings.json
+src/.vscode/launch.json
+.gitignore
